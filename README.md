@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🌐 [Visit My Website](https://melis.digital)
+### 🌐 [Melis Digital | One Person Digital Studio | Creatief in Webdevelopment | Creatief in Digital Marketing](https://melis.digital)
 
 <!--
 **melisdigital/melisdigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
